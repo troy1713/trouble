@@ -1,2 +1,2 @@
 # trouble
-A simple rendition of the board game Trouble
+A simple rendition of the board game Trouble (UNFINISHED)
